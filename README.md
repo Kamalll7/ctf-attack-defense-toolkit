@@ -14,11 +14,3 @@ Each module has its own directory with its own instructions. Navigate into the r
 
 - Linux environment
 - See each module's directory for specific dependencies
-
-## Disclaimer
-
-These tools are intended for educational purposes and authorized CTF competitions only. Do not use them on systems you do not own or have explicit permission to test.
-
-## Author
-
-[Kamalll7](https://github.com/Kamalll7)
